@@ -1,0 +1,14 @@
+D:\C#\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.exe
+D:\C#\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.deps.json
+D:\C#\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.runtimeconfig.json
+D:\C#\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.dll
+D:\C#\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.pdb
+D:\C#\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.AssemblyInfoInputs.cache
+D:\C#\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.AssemblyInfo.cs
+D:\C#\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.csproj.CoreCompileInputs.cache
+D:\C#\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.dll
+D:\C#\HeadsOrTails\obj\Debug\net8.0\refint\HeadsOrTails.dll
+D:\C#\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.pdb
+D:\C#\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.genruntimeconfig.cache
+D:\C#\HeadsOrTails\obj\Debug\net8.0\ref\HeadsOrTails.dll
